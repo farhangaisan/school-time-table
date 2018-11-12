@@ -1,0 +1,19 @@
+.inidiatabelnya {
+    color:green;
+    width: 200px;
+    height: 20%; 
+    margin: 100px;
+    border: 2px solid #d02727;
+    padding: 20px solid#51c92cce;
+}
+.tekanini {
+    width: 100px;
+    background-color: #d02727;
+    border: 2px solid #097988;
+    margin: 2px;
+}
+.tekanitu {
+    width: 100px;
+    background-color: #d02727;
+    border: 2px solid #097988;
+}
